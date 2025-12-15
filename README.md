@@ -1,0 +1,2 @@
+# HT2P--Hyperparameter-Tuned-Two-stage-Pipeline-for-Imbalanced-Tabular-Data-
+This repository presents HT2P, a novel and advanced two‑stage learning pipeline designed for imbalanced tabular data classification. The framework builds upon TabNet and enhances it with self‑supervised pretraining, feature engineering, and hyperparameter tuning to significantly improve predictive performance and model robustness.
